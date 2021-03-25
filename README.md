@@ -20,5 +20,7 @@ The dump can be analyzed and decoded using `tmds2rgb` util.
 This util does not support InfoFrames at the moment.
 
 ## See also
-https://github.com/tgorochowik/linux-vsniffer/tree/video-sniffer-zybo
-https://github.com/tgorochowik/tmds2rgb
+
+* https://github.com/tgorochowik/linux-vsniffer/tree/video-sniffer-zybo
+
+* https://github.com/tgorochowik/tmds2rgb
